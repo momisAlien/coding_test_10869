@@ -5,7 +5,7 @@ int main()
 		scanf_s("%d", &score);
 		if (89 < score)
 			printf("A");
-		else if (79 < score)
+		else if (79 < score)//새로운 조건추가
 		printf("B");
 		else if (69 < score)
 		printf("C");
